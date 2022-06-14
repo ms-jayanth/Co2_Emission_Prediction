@@ -87,7 +87,7 @@ Since data is highly correlated within explanatory variables I have used SelectK
 4. **Model Building and Evaluation**<br>
 I have build the model with 8 different ML algorithms
 - Linear Regression
-- Ridgr Regression
+- Ridge Regression
 - Lasso Regression
 - Decision Tree Regressor
 - Random forest regressor
