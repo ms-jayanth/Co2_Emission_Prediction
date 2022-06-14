@@ -56,6 +56,9 @@ The tailpipe emissions of carbon dioxide (in grams per kilometre) for combined c
 The data has been taken and compiled from the below Canada Government official link<br>
 https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6
 
+## Tools
+- python: Jupyter Notebook
+
 ## Project Summary:
 1. **EDA**<br>
 From the data I came to know that:<br>
