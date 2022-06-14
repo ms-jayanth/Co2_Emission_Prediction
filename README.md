@@ -88,7 +88,7 @@ I have build the model with 8 different ML algorithms
 - Support Vector Machine<br>
 
    and also build with
-  - Artificial Neural Networks
+- Artificial Neural Networks
 
   Among these Xtreme Gradient Boosting and ANN fits the best with R2 score of 99.8%
 
