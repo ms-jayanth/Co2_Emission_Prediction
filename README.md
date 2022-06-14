@@ -78,7 +78,7 @@ I have detected the outliers with the help of Z-Score and IQR method and treated
     https://drive.google.com/file/d/1XqVzFJG0ztKhHq43_8uS6Nu1c27nM8k4/view?usp=sharing
 
 3. **Feature Engineering**<br>
-Since data is highly correlated within explanatory variables I have used SelectKBest method and RFM method for feature selections<br>
+Since data is highly correlated within explanatory variables, I have used SelectKBest method and RFM method for feature selections<br>
 
     After Feature Engineering, data looks like:<br>
     https://drive.google.com/file/d/1ZFjnjPOhAPSo7jTdYboy05kZD8R1D0mB/view?usp=sharing
