@@ -83,14 +83,13 @@ I have build the model with 8 different ML algorithms
 - Random forest regressor
 - Gradiant Boosting
 - Xtreme Gradiant Boosting
-- Support Vector Machine
-and also build with ANN
+- Support Vector Machine<br>
+and also build with ANN<br>
 Among these Xtreme Gradient Boosting and ANN fits the best with R2 score of 99.8%
 
 5. Deployment
-
 I have deployed Xtreme Gradient Boosting Model in Streamlit Cloud
-
 Script: 
-Conclusion:
+
+## Conclusion:
 From the model performance metrics, it appears that 99.8% of the variance in the CO2 Emissions can be determined by the features within our model. While this model has good performance, we simplified the model by omitting several key categorical variables. It would be interesting to see if there is way to retain them within the model, and gain further insights.
