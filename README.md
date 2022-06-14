@@ -92,6 +92,7 @@ I have build the model with 8 different ML algorithms
 5. **Deployment**<br>
 I have deployed Xtreme Gradient Boosting Model in Streamlit Cloud<br>
 Script: <br>
+https://github.com/ms-jayanth/Co2_Emission_Prediction_Deployment
 
 
 ## Conclusion:
