@@ -98,7 +98,7 @@ I have build the model with 8 different ML algorithms
    and also build with
 - Artificial Neural Networks
 
-  Among these Xtreme Gradient Boosting and ANN fits the best with R2 score of 99.8%
+  Among these Xtreme Gradient Boosting and ANN fits the best with **R2 score of 99.8%.**
 
 5. **Deployment**<br>
 I have deployed Xtreme Gradient Boosting Model in Streamlit Cloud<br>
