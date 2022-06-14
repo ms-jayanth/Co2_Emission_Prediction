@@ -35,6 +35,8 @@ Transmission
 - AS = Automatic with select shift
 - AV = Continuously variable
 - M = Manual
+
+Gears
 - 3 - 10 = Number of gears
 
 Fuel type
