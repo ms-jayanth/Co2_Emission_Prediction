@@ -76,8 +76,9 @@ I have detected the outliers with the help of Z-Score and IQR method and treated
 
 3. **Feature Engineering**<br>
 Since data is highly correlated within explanatory variables I have used SelectKBest method and RFM method for feature selections<br>
-After Feature Engineering, data looks like:<br>
-https://drive.google.com/file/d/1ZFjnjPOhAPSo7jTdYboy05kZD8R1D0mB/view?usp=sharing
+
+    After Feature Engineering, data looks like:<br>
+    https://drive.google.com/file/d/1ZFjnjPOhAPSo7jTdYboy05kZD8R1D0mB/view?usp=sharing
 
 
 4. **Model Building and Evaluation**<br>
@@ -98,7 +99,8 @@ I have build the model with 8 different ML algorithms
 
 5. **Deployment**<br>
 I have deployed Xtreme Gradient Boosting Model in Streamlit Cloud<br>
-Script: https://github.com/ms-jayanth/Co2_Emission_Prediction_Deployment
+
+    Script: https://github.com/ms-jayanth/Co2_Emission_Prediction_Deployment
 
 
 ## Conclusion:
