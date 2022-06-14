@@ -59,28 +59,22 @@ There are some dupluicate values in the dataset<br>
 There are no null values<br>
 Quantitative data consists of outliers<br>
 There is multicollinearity problem in the data<br>
-
 EDA Report: https://share.streamlit.io/ms-jayanth/co2_emission_prediction_deployment/main/EDA_Report.py
 
 2. Data Preprocessing
-
 In this script<br>
 I have removed the duplicate values.<br>
 I have detected the outliers with the help of Z-Score and IQR method and treated them by Quantile based flooring and capping.<br>
-
 After preprocessing, data looks like:<br>
 https://drive.google.com/file/d/1XqVzFJG0ztKhHq43_8uS6Nu1c27nM8k4/view?usp=sharing
 
 3. Feature Engineering
-
-Since data is highly correlated within explanatory variables I have used SelectKBest method and RFM method for feature selections
-
+Since data is highly correlated within explanatory variables I have used SelectKBest method and RFM method for feature selections<br>
 After Feature Engineering, data looks like:<br>
 https://drive.google.com/file/d/1ZFjnjPOhAPSo7jTdYboy05kZD8R1D0mB/view?usp=sharing
 
 
 4. Model Building and evaluation
-
 I have build the model with 8 different ML algorithms
 - Linear Regression
 - Ridgr Regression
@@ -90,9 +84,7 @@ I have build the model with 8 different ML algorithms
 - Gradiant Boosting
 - Xtreme Gradiant Boosting
 - Support Vector Machine
-
 and also build with ANN
-
 Among these Xtreme Gradient Boosting and ANN fits the best with R2 score of 99.8%
 
 5. Deployment
