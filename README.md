@@ -49,12 +49,11 @@ CO2 Emissions
 The tailpipe emissions of carbon dioxide (in grams per kilometre) for combined city and highway driving
 
 ## Acknowledgements:
-The data has been taken and compiled from the below Canada Government official link
+The data has been taken and compiled from the below Canada Government official link<br>
 https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6
 
 ## Project Summary:
 1. EDA
-
 From the data I came to know that<br>
 There are some dupluicate values in the dataset<br>
 There are no null values<br>
@@ -69,14 +68,14 @@ In this script<br>
 I have removed the duplicate values.<br>
 I have detected the outliers with the help of Z-Score and IQR method and treated them by Quantile based flooring and capping.<br>
 
-After preprocessing, data looks like:
+After preprocessing, data looks like:<br>
 https://drive.google.com/file/d/1XqVzFJG0ztKhHq43_8uS6Nu1c27nM8k4/view?usp=sharing
 
 3. Feature Engineering
 
 Since data is highly correlated within explanatory variables I have used SelectKBest method and RFM method for feature selections
 
-After Feature Engineering, data looks like
+After Feature Engineering, data looks like:<br>
 https://drive.google.com/file/d/1ZFjnjPOhAPSo7jTdYboy05kZD8R1D0mB/view?usp=sharing
 
 
