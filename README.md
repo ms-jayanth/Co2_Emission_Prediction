@@ -58,7 +58,7 @@ https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-a
 
 ## Project Summary:
 1. **EDA**<br>
-From the data I came to know that<br>
+From the data I came to know that:<br>
 There are some dupluicate values in the dataset<br>
 There are no null values<br>
 Quantitative data consists of outliers<br>
@@ -70,8 +70,9 @@ There is multicollinearity problem in the data<br>
 In this script<br>
 I have removed the duplicate values.<br>
 I have detected the outliers with the help of Z-Score and IQR method and treated them by Quantile based flooring and capping.<br>
-After preprocessing, data looks like:<br>
-https://drive.google.com/file/d/1XqVzFJG0ztKhHq43_8uS6Nu1c27nM8k4/view?usp=sharing
+
+    After preprocessing, data looks like:<br>
+    https://drive.google.com/file/d/1XqVzFJG0ztKhHq43_8uS6Nu1c27nM8k4/view?usp=sharing
 
 3. **Feature Engineering**<br>
 Since data is highly correlated within explanatory variables I have used SelectKBest method and RFM method for feature selections<br>
