@@ -1,7 +1,7 @@
 # Co2 Emission Prediction
 
 ## User Interface:
-https://share.streamlit.io/ms-jayanth/co2_emission_prediction/main/Co2_Emission_Streamlit.py
+https://share.streamlit.io/ms-jayanth/co2_emission_prediction_deployment/main/Co2_Emission_Streamlit.py
 
 ## Introduction:
 Global warming is one of the biggest challenges currently being faced by the human race, although correlation is not causation a likely cause of global warming is due to increased atmospheric carbon dioxide from human activities. 
