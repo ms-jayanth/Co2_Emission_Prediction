@@ -85,7 +85,7 @@ Since data is highly correlated within explanatory variables, I have used Select
 
 
 4. **Model Building and Evaluation**<br>
-I have build the model with 8 different ML algorithms
+I have build the model with 8 different ML algorithms:
 - Linear Regression
 - Ridge Regression
 - Lasso Regression
