@@ -50,7 +50,7 @@ Fuel Consumption
 City and highway fuel consumption ratings are shown in litres per 100 kilometres (L/100 km) - the combined rating (55% city, 45% hwy) is shown in L/100 km and in miles per gallon (mpg)
 
 CO2 Emissions
-The tailpipe emissions of carbon dioxide (in grams per kilometre) for combined city and highway driving
+The tailpipe emissions of carbon dioxide (in grams per kilometre) for combined city and highway driving.
 
 ## Acknowledgements:
 The data has been taken and compiled from the below Canada Government official link<br>
