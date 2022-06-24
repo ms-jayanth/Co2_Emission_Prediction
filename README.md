@@ -65,7 +65,7 @@ From the data I came to know that:<br>
 There are some dupluicate values in the dataset<br>
 There are no null values<br>
 Quantitative data consists of outliers<br>
-There is multicollinearity problem in the data<br>
+There is multicollinearity problem in the data.<br>
 
     EDA Report: https://share.streamlit.io/ms-jayanth/co2_emission_prediction_deployment/main/EDA_Report.py
 
